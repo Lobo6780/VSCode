@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "625rR8WyhMoESEiFejETrQ0zH2gNV6ZgEdRPiWtVgegQOen+t1iGGXrtS6Lp4h9eDnZ/cslk196q2hpaTQaHbg==",
+  "success": true,
+  "projectFilePath": "/home/piotr/Desktop/C#/Klasy/Klasy.csproj",
+  "expectedPackageFiles": [
+    "/home/piotr/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

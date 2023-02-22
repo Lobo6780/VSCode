@@ -1,0 +1,14 @@
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy.deps.json
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy.runtimeconfig.json
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy.runtimeconfig.dev.json
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy.dll
+/home/piotr/Desktop/C#/Klasy/bin/Debug/netcoreapp3.1/Klasy.pdb
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.csproj.AssemblyReference.cache
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.GeneratedMSBuildEditorConfig.editorconfig
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.AssemblyInfoInputs.cache
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.AssemblyInfo.cs
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.csproj.CoreCompileInputs.cache
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.dll
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.pdb
+/home/piotr/Desktop/C#/Klasy/obj/Debug/netcoreapp3.1/Klasy.genruntimeconfig.cache
