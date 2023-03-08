@@ -1,0 +1,5 @@
+/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/obj/Debug/net7.0/DaneKomputerow.csproj.AssemblyReference.cache
+/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/obj/Debug/net7.0/DaneKomputerow.GeneratedMSBuildEditorConfig.editorconfig
+/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/obj/Debug/net7.0/DaneKomputerow.AssemblyInfoInputs.cache
+/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/obj/Debug/net7.0/DaneKomputerow.AssemblyInfo.cs
+/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/obj/Debug/net7.0/DaneKomputerow.csproj.CoreCompileInputs.cache

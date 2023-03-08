@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeoSWoJFqYc8T2Y+d/XHzROGCHT0mg2PA4kWsrncecr9RyKwVwGwkcjKZhb3SLLr7qlCokQzK30KhLKqOv5+Iw==",
+  "success": true,
+  "projectFilePath": "/home/piotr/Desktop/GitHub/VSCode/DaneKomputerow/DaneKomputerow.csproj",
+  "expectedPackageFiles": [
+    "/home/piotr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
